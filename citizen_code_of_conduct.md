@@ -6,7 +6,7 @@ A primary goal of Karvel Digital is to be inclusive to the largest number of con
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in the Karvel Digital Membership site to help us create safe and positive experiences for everyone.
+We invite all those who participate in the Karvel Digital Membership site and any affiliated community groups, to help us create safe and positive experiences for everyone.
 
 ## 2. Member Citizenship
 
